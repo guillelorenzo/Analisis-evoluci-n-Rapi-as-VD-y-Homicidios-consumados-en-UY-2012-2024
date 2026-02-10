@@ -106,3 +106,5 @@ Cada visual se puede hacer para el año deseado cambiando filter(AÑO == "20xx" 
 ## Autoría
 
 Elaboración propia a partir de datos del Ministerio del Interior y el Instituto Nacional de Estadística.
+Las bases de datos utilizadas se pueden encontrar en 
+https://catalogodatos.gub.uy/dataset/ministerio-del-interior-delitos_denunciados_en_el_uruguay
